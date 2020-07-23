@@ -6,11 +6,8 @@ heading: What about Levitical laws?
 subheading: Why is common sense not common practice?
 mainpitch:
   title: Why Bother
-  description: Thinking differently may not result in behaving differently.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  description: Just recall some of the personal disappointments you have experienced.
+description: Norman removed this text.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -41,24 +38,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >-
-    Just recall some of the personal disappointments you have experienced. Now
-    think about your bad habits that you may be ashamed to acknowledge.
-
-
-    Even if you are not considered fat by others, it is human to be bothered by your weigh. We all fantasize about losing some weight, even if we don't obsess about it.
-
-
-    Our biological wiring harbours emotional responses to override what we claim to control. Think about your tendency to eat too much, despite your commitment not to.
-
-
-    Or, about getting angry when some idiot cuts you off in traffic. We all know these things happen all the time, but we take offence when 'we' get cut off. We forget about those times we have to be assertive, which may cut someone else off.
-
-
-    Acknowledging these annoyances has negligible impact on our ability to change our behaviour. Are our innate impulses in charge?
-
-
-    Our emotions seem to betray our common sense more often than we want to admit that it might.
+  description: Norman removed this text.
 main:
   heading: Great coffee with no compromises
   description: >
